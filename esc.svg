@@ -1,20 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583.9066046372056 282.17211232910154"
   width="1167.8132092744113" height="564.3442246582031" id="scene0" style="display: none;">
-  <!-- svg-source:excalidraw -->
-
-  <defs>
-    <style class="style-fonts">
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Virgil.woff2");
-      }
-
-      @font-face {
-        font-family: "Cascadia";
-        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Cascadia.woff2");
-      }
-    </style>
-  </defs>
+  
   <g stroke-linecap="round">
     <g transform="translate(12.365161766111896 132.17271014512664) rotate(0 201.90876758507568 -13.9137546921433)">
       <path d="M-2.37 -1.52 C-2.37 -1.52, -2.37 -1.52, -2.37 -1.52 C-2.37 -1.52, -2.37 -1.52, -2.37 -1.52"
