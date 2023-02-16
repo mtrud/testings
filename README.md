@@ -1,3 +1,4 @@
 # testings
 link
-https://mtrud.github.io/testings/excalidraw-claymate.html
+
+[excalidraw-claymate](https://mtrud.github.io/testings/excalidraw-claymate.html)
