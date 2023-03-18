@@ -4,15 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBA Standings</title>
 </head>
 
 <body>
 
-    <script> (function (a, b, c, d, e, f, g, h, i) { a[e] || (i = a[e] = function () { (a[e].q = a[e].q || []).push(arguments) }, i.l = 1 * new Date, i.o = f, g = b.createElement(c), h = b.getElementsByTagName(c)[0], g.async = 1, g.src = d, g.setAttribute("n", e), h.parentNode.insertBefore(g, h)) })(window, document, "script", "https://widgets.media.sportradar.com/uscommon/widgetloader", "SIR", { language: 'en_us' }); SIR('addWidget', '#sr-widget', 'us.season.nba.standings', { border: false, organizationType: 'conference', }); </script>
-    <div id="sr-widget"></div>
+    <script>
+        $(document).ready(function () {
+            $("#area").load("https://scores.nbcsports.com/nba/standings_conference.asp #shsNBAStandings > *");
+        });
+    </script>
 
+    <div id="area">
+        <div id="area">
+            <!-- stuff -->
+        </div>
+    </div>
 
 </body>
 
